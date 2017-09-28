@@ -1,0 +1,21 @@
+2017-09-28 15:53:37,656 logger.py[line: 42] INFO: {'error': 'Unsupported Media Type', 'message': "Content type 'null' not supported", 'timestamp': 1506585217749, 'path': '/penguin/v1/userinfo/add', 'exception': 'org.springframework.web.HttpMediaTypeNotSupportedException', 'status': 415}
+2017-09-28 15:53:52,694 logger.py[line: 42] INFO: select max(id) from creditor_registration where name = '张伟豪'
+2017-09-28 15:53:52,762 logger.py[line: 42] INFO: select user_gid,loan_record_gid,loan_amount,repayment_amount from creditor_registration where id = 'None'
+2017-09-28 15:59:48,612 logger.py[line: 42] INFO: {'content': None, 'message': '成功', 'status': 0}
+2017-09-28 16:01:25,966 logger.py[line: 42] INFO: {'content': None, 'message': '成功', 'status': 0}
+2017-09-28 16:01:40,452 logger.py[line: 42] INFO: {'message': '成功', 'status': 0, 'content': None}
+2017-09-28 16:22:15,815 logger.py[line: 42] INFO: {'content': None, 'status': 0, 'message': '成功'}
+2017-09-28 16:22:21,316 logger.py[line: 42] INFO: {'content': None, 'status': 0, 'message': '成功'}
+2017-09-28 16:22:28,576 logger.py[line: 42] INFO: {'content': None, 'status': 0, 'message': '成功'}
+2017-09-28 16:48:35,166 logger.py[line: 42] INFO: {'message': '成功', 'content': None, 'status': 0}
+2017-09-28 16:48:35,478 logger.py[line: 42] INFO: {'message': '成功', 'content': None, 'status': 0}
+2017-09-28 16:48:35,739 logger.py[line: 42] INFO: {'message': '成功', 'content': None, 'status': 0}
+2017-09-28 16:49:49,542 logger.py[line: 42] INFO: {'content': None, 'message': '成功', 'status': 0}
+2017-09-28 16:49:49,845 logger.py[line: 42] INFO: {'content': None, 'message': '成功', 'status': 0}
+2017-09-28 16:49:50,241 logger.py[line: 42] INFO: {'content': None, 'message': '成功', 'status': 0}
+2017-09-28 17:21:12,475 logger.py[line: 42] __consoleINFO: {'message': '成功', 'content': None, 'status': 0}
+2017-09-28 17:21:13,011 logger.py[line: 42] __consoleINFO: {'message': '成功', 'content': None, 'status': 0}
+2017-09-28 17:21:13,222 logger.py[line: 42] __consoleINFO: {'message': '成功', 'content': None, 'status': 0}
+2017-09-28 17:45:31,510 logger.py[line: 42] INFO: {'message': '成功', 'content': None, 'status': 0}
+2017-09-28 17:45:33,758 logger.py[line: 42] INFO: {'message': '成功', 'content': None, 'status': 0}
+2017-09-28 17:45:34,426 logger.py[line: 42] INFO: {'message': '成功', 'content': None, 'status': 0}
