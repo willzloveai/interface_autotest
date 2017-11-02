@@ -6,7 +6,7 @@ from logger import Log
 
 base_dir = str(os.path.dirname(os.path.dirname(__file__)))
 base_dir = base_dir.replace('\\','/')
-file_path = base_dir + "/configuration/db_config.ini"
+file_path = base_dir + "/configuration/db_config.conf"
 
 
 cf = cparser.ConfigParser()

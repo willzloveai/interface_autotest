@@ -1,4 +1,3 @@
-
 import smtplib,os,string
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -9,7 +8,7 @@ from logger import Log
 #获取当前文件路径
 base_dir = str(os.path.dirname(os.path.dirname(__file__)))
 base_dir = base_dir.replace('\\','/')
-file_path = base_dir + "/configuration/email_config.ini"
+file_path = base_dir + "/configuration/email_config.conf"
 
 
 cf = cparser.ConfigParser()
